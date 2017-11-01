@@ -2,25 +2,24 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.xorbix.moodletest"
-        versionCode = "2"
-        version   = "1.0.1">
-    <name>PhoneGap Test</name>
+        id        = "com.moodle.moodlemobile"
+        versionCode = "20200"
+        version   = "3.3.2">
+    <name>Moodle Mobile</name>
 
     <description>
-        PhoneGap Test
+        Moodle Mobile official app
     </description>
 
-    <author href="http://xorbix.com" email="matt.staudenmayer@xorbix.com">
-        Xorbix
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.0.0</string>
+        <string>3.3.2</string>
     </gap:config-file>
 
-    <gap:platform name="ios" />
-    <!--<gap:platform name="android" />-->
+    <gap:platform name="android" />
 
     <access origin="*" />
     <access origin="tel:*" launch-external="yes" />
