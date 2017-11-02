@@ -66183,7 +66183,7 @@ angular.module('mm.core')
     "app_id" : "com.moodle.edb",
     "appname": "Escuela de Belleza",
     "desktopappname": "Escuela de Belleza",
-    "versioncode" : "1111",
+    "versioncode" : "1112",
     "versionname" : "1.0.1",
     "cache_expiration_time" : 300000,
     "default_lang" : "es",
