@@ -121,7 +121,7 @@
         <param name="MICROPHONE_USAGE_DESCRIPTION" value="We'd like to access your microphone to let you record an audio"/>
     </gap:plugin>
     <gap:plugin name="cordova-plugin-device" source="npm" />
-    <gap:plugin name="cordova-plugin-file" source="npm" spec="5.4.0" />
+    <gap:plugin name="cordova-plugin-file" source="npm" spec="4.3.3" />
     <gap:plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.3" />
     <gap:plugin name="cordova-plugin-globalization" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
