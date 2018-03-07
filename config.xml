@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.edb"
-        versionCode = "1115"
-        version   = "1.2.0">
+        versionCode = "1114"
+        version   = "1.1.0">
     <name>Escuela de Belleza</name>
 
     <description>Aplicación de Escuela de Belleza</description>
@@ -12,7 +12,7 @@
     <author href="http://entornos.net" email="soporte-app-ebe@entornos.com.ar">Entornos Educativos</author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.2.0</string>
+        <string>1.1.0</string>
     </gap:config-file>
 
     <gap:platform name="android" />
